@@ -1,0 +1,120 @@
+[05-Oct-2025 07:54:32 UTC] PHP Fatal error:  Uncaught chillerlan\QRCode\Data\QRCodeDataException: estimated data exceeds 65908 bits in /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php:180
+Stack trace:
+#0 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(194): chillerlan\QRCode\Data\QRData->estimateTotalBitLength()
+#1 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(77): chillerlan\QRCode\Data\QRData->getMinimumVersion()
+#2 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(65): chillerlan\QRCode\Data\QRData->setData(Array)
+#3 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/QRCode.php(244): chillerlan\QRCode\Data\QRData->__construct(Object(chillerlan\QRCode\QROptions), Array)
+#4 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/QRCode.php(226): chillerlan\QRCode\QRCode->getQRMatrix()
+#5 /home/biostarh/public_html/qrcode.biostarhealth.in/user/index.php(70): chillerlan\QRCode\QRCode->render('BEGIN:VCARD\nVER...')
+#6 {main}
+  thrown in /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php on line 180
+[05-Oct-2025 07:54:40 UTC] PHP Fatal error:  Uncaught chillerlan\QRCode\Data\QRCodeDataException: estimated data exceeds 65908 bits in /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php:180
+Stack trace:
+#0 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(194): chillerlan\QRCode\Data\QRData->estimateTotalBitLength()
+#1 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(77): chillerlan\QRCode\Data\QRData->getMinimumVersion()
+#2 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(65): chillerlan\QRCode\Data\QRData->setData(Array)
+#3 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/QRCode.php(244): chillerlan\QRCode\Data\QRData->__construct(Object(chillerlan\QRCode\QROptions), Array)
+#4 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/QRCode.php(226): chillerlan\QRCode\QRCode->getQRMatrix()
+#5 /home/biostarh/public_html/qrcode.biostarhealth.in/user/index.php(70): chillerlan\QRCode\QRCode->render('BEGIN:VCARD\nVER...')
+#6 {main}
+  thrown in /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php on line 180
+[05-Oct-2025 07:54:52 UTC] PHP Fatal error:  Uncaught chillerlan\QRCode\Data\QRCodeDataException: estimated data exceeds 65908 bits in /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php:180
+Stack trace:
+#0 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(194): chillerlan\QRCode\Data\QRData->estimateTotalBitLength()
+#1 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(77): chillerlan\QRCode\Data\QRData->getMinimumVersion()
+#2 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(65): chillerlan\QRCode\Data\QRData->setData(Array)
+#3 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/QRCode.php(244): chillerlan\QRCode\Data\QRData->__construct(Object(chillerlan\QRCode\QROptions), Array)
+#4 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/QRCode.php(226): chillerlan\QRCode\QRCode->getQRMatrix()
+#5 /home/biostarh/public_html/qrcode.biostarhealth.in/user/index.php(70): chillerlan\QRCode\QRCode->render('BEGIN:VCARD\nVER...')
+#6 {main}
+  thrown in /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php on line 180
+[05-Oct-2025 07:54:59 UTC] PHP Fatal error:  Uncaught chillerlan\QRCode\Data\QRCodeDataException: estimated data exceeds 65908 bits in /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php:180
+Stack trace:
+#0 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(194): chillerlan\QRCode\Data\QRData->estimateTotalBitLength()
+#1 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(77): chillerlan\QRCode\Data\QRData->getMinimumVersion()
+#2 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(65): chillerlan\QRCode\Data\QRData->setData(Array)
+#3 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/QRCode.php(244): chillerlan\QRCode\Data\QRData->__construct(Object(chillerlan\QRCode\QROptions), Array)
+#4 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/QRCode.php(226): chillerlan\QRCode\QRCode->getQRMatrix()
+#5 /home/biostarh/public_html/qrcode.biostarhealth.in/user/index.php(70): chillerlan\QRCode\QRCode->render('BEGIN:VCARD\nVER...')
+#6 {main}
+  thrown in /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php on line 180
+[06-Oct-2025 11:18:53 UTC] PHP Fatal error:  Uncaught chillerlan\QRCode\Data\QRCodeDataException: estimated data exceeds 66236 bits in /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php:180
+Stack trace:
+#0 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(194): chillerlan\QRCode\Data\QRData->estimateTotalBitLength()
+#1 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(77): chillerlan\QRCode\Data\QRData->getMinimumVersion()
+#2 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(65): chillerlan\QRCode\Data\QRData->setData(Array)
+#3 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/QRCode.php(244): chillerlan\QRCode\Data\QRData->__construct(Object(chillerlan\QRCode\QROptions), Array)
+#4 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/QRCode.php(226): chillerlan\QRCode\QRCode->getQRMatrix()
+#5 /home/biostarh/public_html/qrcode.biostarhealth.in/user/index.php(95): chillerlan\QRCode\QRCode->render('BEGIN:VCARD\nVER...')
+#6 {main}
+  thrown in /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php on line 180
+[06-Oct-2025 11:19:09 UTC] PHP Fatal error:  Uncaught chillerlan\QRCode\Data\QRCodeDataException: estimated data exceeds 66236 bits in /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php:180
+Stack trace:
+#0 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(194): chillerlan\QRCode\Data\QRData->estimateTotalBitLength()
+#1 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(77): chillerlan\QRCode\Data\QRData->getMinimumVersion()
+#2 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(65): chillerlan\QRCode\Data\QRData->setData(Array)
+#3 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/QRCode.php(244): chillerlan\QRCode\Data\QRData->__construct(Object(chillerlan\QRCode\QROptions), Array)
+#4 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/QRCode.php(226): chillerlan\QRCode\QRCode->getQRMatrix()
+#5 /home/biostarh/public_html/qrcode.biostarhealth.in/user/index.php(95): chillerlan\QRCode\QRCode->render('BEGIN:VCARD\nVER...')
+#6 {main}
+  thrown in /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php on line 180
+[06-Oct-2025 11:20:03 UTC] PHP Fatal error:  Uncaught chillerlan\QRCode\Data\QRCodeDataException: estimated data exceeds 66284 bits in /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php:180
+Stack trace:
+#0 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(194): chillerlan\QRCode\Data\QRData->estimateTotalBitLength()
+#1 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(77): chillerlan\QRCode\Data\QRData->getMinimumVersion()
+#2 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(65): chillerlan\QRCode\Data\QRData->setData(Array)
+#3 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/QRCode.php(244): chillerlan\QRCode\Data\QRData->__construct(Object(chillerlan\QRCode\QROptions), Array)
+#4 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/QRCode.php(226): chillerlan\QRCode\QRCode->getQRMatrix()
+#5 /home/biostarh/public_html/qrcode.biostarhealth.in/user/index.php(95): chillerlan\QRCode\QRCode->render('BEGIN:VCARD\nVER...')
+#6 {main}
+  thrown in /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php on line 180
+[06-Oct-2025 11:20:10 UTC] PHP Fatal error:  Uncaught chillerlan\QRCode\Data\QRCodeDataException: estimated data exceeds 66284 bits in /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php:180
+Stack trace:
+#0 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(194): chillerlan\QRCode\Data\QRData->estimateTotalBitLength()
+#1 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(77): chillerlan\QRCode\Data\QRData->getMinimumVersion()
+#2 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(65): chillerlan\QRCode\Data\QRData->setData(Array)
+#3 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/QRCode.php(244): chillerlan\QRCode\Data\QRData->__construct(Object(chillerlan\QRCode\QROptions), Array)
+#4 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/QRCode.php(226): chillerlan\QRCode\QRCode->getQRMatrix()
+#5 /home/biostarh/public_html/qrcode.biostarhealth.in/user/index.php(95): chillerlan\QRCode\QRCode->render('BEGIN:VCARD\nVER...')
+#6 {main}
+  thrown in /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php on line 180
+[06-Oct-2025 11:20:27 UTC] PHP Fatal error:  Uncaught chillerlan\QRCode\Data\QRCodeDataException: estimated data exceeds 66236 bits in /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php:180
+Stack trace:
+#0 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(194): chillerlan\QRCode\Data\QRData->estimateTotalBitLength()
+#1 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(77): chillerlan\QRCode\Data\QRData->getMinimumVersion()
+#2 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(65): chillerlan\QRCode\Data\QRData->setData(Array)
+#3 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/QRCode.php(244): chillerlan\QRCode\Data\QRData->__construct(Object(chillerlan\QRCode\QROptions), Array)
+#4 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/QRCode.php(226): chillerlan\QRCode\QRCode->getQRMatrix()
+#5 /home/biostarh/public_html/qrcode.biostarhealth.in/user/index.php(95): chillerlan\QRCode\QRCode->render('BEGIN:VCARD\nVER...')
+#6 {main}
+  thrown in /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php on line 180
+[06-Oct-2025 11:57:58 UTC] PHP Fatal error:  Uncaught chillerlan\QRCode\Data\QRCodeDataException: estimated data exceeds 66284 bits in /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php:180
+Stack trace:
+#0 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(194): chillerlan\QRCode\Data\QRData->estimateTotalBitLength()
+#1 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(77): chillerlan\QRCode\Data\QRData->getMinimumVersion()
+#2 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(65): chillerlan\QRCode\Data\QRData->setData(Array)
+#3 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/QRCode.php(244): chillerlan\QRCode\Data\QRData->__construct(Object(chillerlan\QRCode\QROptions), Array)
+#4 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/QRCode.php(226): chillerlan\QRCode\QRCode->getQRMatrix()
+#5 /home/biostarh/public_html/qrcode.biostarhealth.in/user/index.php(95): chillerlan\QRCode\QRCode->render('BEGIN:VCARD\nVER...')
+#6 {main}
+  thrown in /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php on line 180
+[06-Oct-2025 12:03:38 UTC] PHP Fatal error:  Uncaught chillerlan\QRCode\Data\QRCodeDataException: estimated data exceeds 66284 bits in /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php:180
+Stack trace:
+#0 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(194): chillerlan\QRCode\Data\QRData->estimateTotalBitLength()
+#1 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(77): chillerlan\QRCode\Data\QRData->getMinimumVersion()
+#2 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(65): chillerlan\QRCode\Data\QRData->setData(Array)
+#3 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/QRCode.php(244): chillerlan\QRCode\Data\QRData->__construct(Object(chillerlan\QRCode\QROptions), Array)
+#4 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/QRCode.php(226): chillerlan\QRCode\QRCode->getQRMatrix()
+#5 /home/biostarh/public_html/qrcode.biostarhealth.in/user/index.php(95): chillerlan\QRCode\QRCode->render('BEGIN:VCARD\nVER...')
+#6 {main}
+  thrown in /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php on line 180
+[06-Oct-2025 12:03:59 UTC] PHP Fatal error:  Uncaught chillerlan\QRCode\Data\QRCodeDataException: estimated data exceeds 66284 bits in /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php:180
+Stack trace:
+#0 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(194): chillerlan\QRCode\Data\QRData->estimateTotalBitLength()
+#1 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(77): chillerlan\QRCode\Data\QRData->getMinimumVersion()
+#2 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php(65): chillerlan\QRCode\Data\QRData->setData(Array)
+#3 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/QRCode.php(244): chillerlan\QRCode\Data\QRData->__construct(Object(chillerlan\QRCode\QROptions), Array)
+#4 /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/QRCode.php(226): chillerlan\QRCode\QRCode->getQRMatrix()
+#5 /home/biostarh/public_html/qrcode.biostarhealth.in/user/index.php(95): chillerlan\QRCode\QRCode->render('BEGIN:VCARD\nVER...')
+#6 {main}
+  thrown in /home/biostarh/public_html/qrcode.biostarhealth.in/user/vendor/chillerlan/php-qrcode/src/Data/QRData.php on line 180

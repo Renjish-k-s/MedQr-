@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:K S;Renjish;;;
+FN:Renjish K S
+ORG:Farmer and Developer
+TITLE:Software Engineer
+TEL;TYPE=CELL:+919876543210
+EMAIL;TYPE=INTERNET:renjish@example.com
+URL:https://renjishks.in
+ADR;TYPE=HOME:;;Kanjiramkulam;Thiruvananthapuram;Kerala;695524;India
+END:VCARD

@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;test@09567225114_MBDC-Renjish K S;;;
+FN:test@09567225114_MBDC-Renjish K S
+ORG:new
+TITLE:Patient Record
+TEL;TYPE=WORK:9567225114
+EMAIL;TYPE=INTERNET:test@gmail.com
+URL:https://leetcode.com/
+ADR;TYPE=WORK:;;Thanponnankala vadakkethu puthen veedu;;;;
+NOTE:OP Number - 09567225114
+END:VCARD

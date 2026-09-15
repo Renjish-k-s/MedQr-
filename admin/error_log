@@ -1,0 +1,15 @@
+[04-Oct-2025 13:43:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'biostarh_qrbase.Loginregister' doesn't exist in /home/biostarh/public_html/qrcode.biostarhealth.in/admin/logout.php:10
+Stack trace:
+#0 /home/biostarh/public_html/qrcode.biostarhealth.in/admin/logout.php(10): mysqli->prepare('UPDATE Loginreg...')
+#1 {main}
+  thrown in /home/biostarh/public_html/qrcode.biostarhealth.in/admin/logout.php on line 10
+[04-Oct-2025 13:52:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'biostarh_qrbase.Loginregister' doesn't exist in /home/biostarh/public_html/qrcode.biostarhealth.in/admin/logout.php:10
+Stack trace:
+#0 /home/biostarh/public_html/qrcode.biostarhealth.in/admin/logout.php(10): mysqli->prepare('UPDATE Loginreg...')
+#1 {main}
+  thrown in /home/biostarh/public_html/qrcode.biostarhealth.in/admin/logout.php on line 10
+[13-Oct-2025 13:37:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'WHERE' in /home/biostarh/public_html/qrcode.biostarhealth.in/admin/delete_company.php:32
+Stack trace:
+#0 /home/biostarh/public_html/qrcode.biostarhealth.in/admin/delete_company.php(32): mysqli->prepare('DELETE FROM use...')
+#1 {main}
+  thrown in /home/biostarh/public_html/qrcode.biostarhealth.in/admin/delete_company.php on line 32

@@ -1,0 +1,13 @@
+[04-Oct-2025 13:40:07 UTC] Database connection error: Access denied for user 'biostarh_biostarh'@'localhost' to database 'biostarh_qrbase'
+[04-Oct-2025 13:40:40 UTC] Database connection error: Access denied for user 'biostarh_biostarh'@'localhost' to database 'biostarh_qrbase'
+[04-Oct-2025 13:42:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'biostarh_qrbase.Loginregister' doesn't exist in /home/biostarh/public_html/qrcode.biostarhealth.in/login/index.php:29
+Stack trace:
+#0 /home/biostarh/public_html/qrcode.biostarhealth.in/login/index.php(29): mysqli->prepare('INSERT INTO Log...')
+#1 {main}
+  thrown in /home/biostarh/public_html/qrcode.biostarhealth.in/login/index.php on line 29
+[04-Oct-2025 13:42:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'biostarh_qrbase.Loginregister' doesn't exist in /home/biostarh/public_html/qrcode.biostarhealth.in/login/index.php:29
+Stack trace:
+#0 /home/biostarh/public_html/qrcode.biostarhealth.in/login/index.php(29): mysqli->prepare('INSERT INTO Log...')
+#1 {main}
+  thrown in /home/biostarh/public_html/qrcode.biostarhealth.in/login/index.php on line 29
+[05-Oct-2025 07:38:36 UTC] Database connection error: Access denied for user 'root'@'localhost' (using password: NO)
